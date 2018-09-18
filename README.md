@@ -1,0 +1,1 @@
+# diamond_kata_testing
